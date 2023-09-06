@@ -1,0 +1,15 @@
+Med-CP-002	Verificar siguiente paciente en agenda a llamar cuando hay una ausencia	"Haber ingresado al sistema con usuario y password
+
+Recibir del area de recepcion la notificacion de asistencia del paciente
+
+Recibir en la notificacion nombre completo documento del paciente y hora de la cita.
+"	"1. Usuario - Nombre y apellidos del medico 
+
+2. Password - Login del medico minimo 8 caracteres  maximo 12 caractere alfanumericos, almenos  una mayuscula y un numero, sin caracteres especiales. "	"1- Ingresar al sistema del Hospital dando click al boton del programa Salus
+2 - Digitar el Usuario y Login del medico que atenderá las citas asignadas
+3 - Dar click al boton de INGRESAR
+4 - Ingresar al modulo de atencion de pacientes con cita agendada
+5 - Digitar la fecha del dia en formato Año - Mes - Dia
+6 - Desplegar listado de notificacion de citas 
+7 - Marcar el ausentismo del paciente en el boton ausencia
+8 - Dar click en el boton siguiente para visualizar cual es el siguente paciente y realizar el llamado"	El medico visualiza el siguiente paciente con sus datos personales
